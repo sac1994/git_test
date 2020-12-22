@@ -6,5 +6,6 @@ public class TestGit {
     public static void main(String[] args) {
         System.out.println("git");
 //        注释
+//       push 不用每次输入账号和密码
     }
 }
